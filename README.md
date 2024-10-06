@@ -1,7 +1,7 @@
 # namer_app
 
-It's my first Flutter project.
-It's a namer app. It generates names when we click on the button.
+It is my first Flutter project.
+It is a namer app. It generates names when we click on the button.
 
 ## Getting Started
 
